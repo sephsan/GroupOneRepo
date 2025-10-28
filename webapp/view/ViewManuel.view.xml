@@ -1,0 +1,7 @@
+<mvc:View controllerName="prjgroupone.controller.ViewGroupOne"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page3" title="{i18n>title}">
+    <Text id="textman" text="Manuel"></Text>
+    </Page>
+</mvc:View>
